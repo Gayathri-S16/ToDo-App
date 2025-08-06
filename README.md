@@ -31,10 +31,4 @@ This project is a part of a hackathon run by [Katomaran](https://www.katomaran.c
 
 - Single-screen app with `StatefulWidget` for task state management
 
-## Demo
-
-(Include Loom or YouTube link here)
-
----
-
 This project is a part of a hackathon run by https://www.katomaran.com
